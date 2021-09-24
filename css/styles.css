@@ -233,7 +233,6 @@ li {
 .header .hero-img {
   position: center;
   object-fit: contain;
-  opacity: 0.5 ;
   margin: 20px 60px;
   justify-self: center;
   height: 5%;
