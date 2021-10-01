@@ -1,7 +1,7 @@
 # ecommerce-ns-mini-project
 # Hi, I'm Mansi Tagadiya! 👋
 
--->Hosted project link --> https://jovial-noyce-f2601b.netlify.app
+-->Hosted project link --> https://eshop-mansi-tagadiya.netlify.app/
 
 ## Features:
 - based on HTML, CSS and JAVASCRIPT
